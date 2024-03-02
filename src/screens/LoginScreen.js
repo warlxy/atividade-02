@@ -11,7 +11,7 @@ const LoginScreen = () => {
     const navigation = useNavigation();
 
     const handleLogin = () => {
-        navigation.navigate('Lista de Contato')
+        navigation.navigate('Lista de Contatos')
     };
 
     const handleCadastro = () => {
